@@ -56,7 +56,7 @@ I have participated in several artificial intelligence challenges:
 <img src="https://img.shields.io/badge/ONNX-b2b2b2?style=for-the-badge&logo=onnx&logoColor=white">
 </span>
 
-<h4> Operating System </h4>
+<h4> Operating Systems </h4>
 <span>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/macOs-666666?style=for-the-badge&logo=apple&logoColor=white">
