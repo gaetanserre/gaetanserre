@@ -11,8 +11,8 @@ I am passionate about
 - Game theory ♟
 - Compilation, type theory, functional programming
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plagiat01&theme=material-palenight&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Plagiat01&show_icons=true&count_private=true&theme=material-palenight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plagiat01&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Plagiat01&show_icons=true&count_private=true&theme=material-palenight)
 
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
