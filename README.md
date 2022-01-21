@@ -49,10 +49,12 @@ I have participated in several artificial intelligence challenges:
 
 <h4> ML </h4>
 <img src="https://img.shields.io/badge/Numpy-4b73c9?style=for-the-badge&logo=numpy&logoColor=white">
+
 <img src="https://img.shields.io/badge/Tensorflow-ff9000?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/sklearn-3499cd?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/sklearn-b2b2b2?style=for-the-badge&logo=onnx&logoColor=white">
+
+<img src="https://img.shields.io/badge/ONNX-b2b2b2?style=for-the-badge&logo=onnx&logoColor=white">
 
 <h4> Operating System </h4>
 <span>
