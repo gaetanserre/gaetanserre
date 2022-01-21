@@ -12,7 +12,7 @@ I am passionate about
 - Compilation, type theory, functional programming
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plagiat01&theme=material-palenight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Plagiat01&show_icons=true&count_private=true&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Plagiat01&show_icons=true&count_private=true&theme=material-palenight&layout=compact)
 
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
