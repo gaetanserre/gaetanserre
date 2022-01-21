@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Plagiat</h1>
 
-I am Gaëtan Serré, I am currently pursuing my master in in artificial intelligence at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)
+I am Gaëtan Serré, I am currently pursuing my master in in artificial intelligence at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Plagiat01&color=blueviolet" /> </p>
 
