@@ -12,9 +12,9 @@ I am passionate about
 - Compilation, type theory, functional programming
 
 <p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Plagiat01&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Plagiat01&count_private=true&show_icons=true&custom_title=Github&theme=material-palenight&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plagiat01&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plagiat01&count_private=true&theme=material-palenight&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
 </p>
 
 </br>
