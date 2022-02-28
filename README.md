@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Plagiat</h1>
+<h1 align="center">Hello there!</h1>
 
 I am Gaëtan Serré, I am currently pursuing my master in in artificial intelligence at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/).
 
