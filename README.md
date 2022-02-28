@@ -5,10 +5,9 @@ I am Gaëtan Serré, I am currently pursuing my master in in artificial intellig
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Plagiat01&color=blueviolet" /> </p>
 
 I am passionate about
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
+- Machine/Deep/Reinforcement Learning
 - Game theory ♟
+- Computer graphics
 - Compilation, type theory, functional programming
 
 <p align="center">
