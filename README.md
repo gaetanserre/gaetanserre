@@ -35,7 +35,7 @@ I have participated in several artificial intelligence challenges:
 - [GAiA](https://github.com/Plagiat01/GAiA): A chess program that uses a complex residual neural network specialized in image recognition. You can read the article about GAiA [here](https://raw.githubusercontent.com/Plagiat01/GAiA/master/article/Performing%20Regression%20on%20Complex%20Data.pdf)
 - [Reinforcement learning algorithms](https://github.com/Plagiat01/Reinforcement-learning-algorithms): An implementation of various reinforcement learning algorithms (Q-Learning, Deep Q-Learning, Monte Carlo Tree Search with neural network, ...) on several games
 - [L2RPN](https://github.com/Plagiat01/L2RPN): My participation to the L2RPN challenge
-- [LiSA](https://github.com/Plagiat01/LiSA): a path tracing renderer
+- [LiSA](https://github.com/Plagiat01/LiSA): a path tracing 3D render engine
 - [Neural Net](https://github.com/Plagiat01/NeuralNet): a implementation of neural network in C++
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
