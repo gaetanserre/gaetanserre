@@ -36,7 +36,8 @@ I have participated in several artificial intelligence challenges:
 - [Reinforcement learning algorithms](https://github.com/gaetanserre/Reinforcement-learning-algorithms): An implementation of various reinforcement learning algorithms (Q-Learning, Deep Q-Learning, Monte Carlo Tree Search with neural network, ...) on several games
 - [L2RPN](https://github.com/gaetanserre/L2RPN): My participation to the L2RPN challenge
 - [LiSA](https://github.com/gaetanserre/LiSA): A 3D path tracing render engine
-- [Neural Net](https://github.com/gaetanserre/NeuralNet): An implementation of neural network in C++
+- [VAE](https://github.com/gaetanserre/Variational-Auto-Encoder): An implementation of a Variational Auto Encoder
+- [Neural Net](https://github.com/gaetanserre/NeuralNet): An implementation of Deep Learning library
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
