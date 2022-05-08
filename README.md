@@ -33,7 +33,7 @@ I have participated in several artificial intelligence challenges:
 
 ## Main projects
 - [GAiA](https://github.com/gaetanserre/GAiA): A chess program that uses a complex residual neural network specialized in image recognition. You can read the report about GAiA [here](https://raw.githubusercontent.com/gaetanserre/GAiA/master/report/Performing%20Regression%20on%20Complex%20Data.pdf)
-- [Reinforcement learning algorithms](https://github.com/gaetanserre/Reinforcement-learning-algorithms): An implementation of various reinforcement learning algorithms (Q-Learning, Deep Q-Learning, Monte Carlo Tree Search with neural network, ...) on several games
+- [Reinforcement learning algorithms](https://github.com/gaetanserre/Reinforcement-learning-algorithms): An implementation of various reinforcement learning algorithms (Q-Learning, Deep Q-Learning, AlphaZero) on several games
 - [L2RPN](https://github.com/gaetanserre/L2RPN): My participation to the L2RPN challenge
 - [LiSA](https://github.com/gaetanserre/LiSA): A 3D path tracing render engine
 - [VAE](https://github.com/gaetanserre/Variational-Auto-Encoder): An implementation of a Variational Auto Encoder
