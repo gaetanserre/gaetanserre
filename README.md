@@ -13,7 +13,7 @@ I am passionate about
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=gaetanserre&count_private=true&show_icons=true&custom_title=Github&theme=material-palenight&layout=compact&border_radius=8"
     /> <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanserre&count_private=true&theme=material-palenight&border_radius=8&hide=TeX,HTML,javascript,notebook&exclude_repo=LiSA,Chess-viewer,AES-electron,ChroniX2Grid,MasterAI,Magistere"/>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanserre&count_private=true&theme=material-palenight&border_radius=8&hide=TeX,HTML,javascript,ipynb&exclude_repo=LiSA,Chess-viewer,AES-electron,ChroniX2Grid,MasterAI,Magistere"/>
 </p>
 
 </br>
