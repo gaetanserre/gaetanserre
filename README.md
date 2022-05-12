@@ -20,8 +20,20 @@ I am passionate about
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Interships
++ #### <a  target="_blank" href="https://www.inria.fr/">Inria</a> \& <a  target="_blank" href="https://www.rte-france.com/">RTE</a>
+  *May - August 2022* 
+  **Supervisor:** Isabelle Guyon
+
+  During this internship I participated in the creation of the 2022 edition of the challenge
+<a  target="_blank" href="https://l2rpn.chalearn.org/">Learn to Run a Power Network</a>
+in partnership with INRIA and RTE.
+My goal was to generate the competition data and create a reinforcement learning agent
+that would serve as the baseline for the competition. I was able to go to the
+<a  target="_blank" href="https://wcci2022.org/">WCCI</a>
+conference to present this edition.
+  
 + #### <a  target="_blank" href="https://www.inria.fr/">Inria</a> \& <a  target="_blank" href="https://lmf.cnrs.fr/">LMF</a>
-  *May - July 2021* 
+  *May - June 2021* 
   **Supervisors:** Jean-Christophe Filliâtre & Andrei Paskevich
   
   This internship consisted in improving <a  target="_blank" href="http://why3.lri.fr/">Why3</a>, a software allowing deductive program verification. I had to enhance the recognition of Python language as well as the interface and the ergonomics of the online version. The program can be tested <a target="_blank" href="http://why3.lri.fr/try/">here</a>.
