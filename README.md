@@ -52,7 +52,7 @@ I have participated in several artificial intelligence challenges:
 - [VAE](https://github.com/gaetanserre/Variational-Auto-Encoder): An implementation of a Variational Auto Encoder
 - [Neural Net](https://github.com/gaetanserre/NeuralNet): An implementation of Deep Learning library
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Skills 
 
 <h4> Languages </h4>
 <span> 
