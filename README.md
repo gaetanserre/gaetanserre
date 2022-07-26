@@ -23,15 +23,11 @@ I am passionate about
 + #### <a  target="_blank" href="https://www.inria.fr/">Inria</a> \& <a  target="_blank" href="https://www.rte-france.com/">RTE</a>
   *May - August 2022* 
   **Supervisor:** Isabelle Guyon
+  Organization of a reinforcement learning and electrical network challenge merging in partnership with Réseau de Transport d'Électricité.
+ Creation of baseline agent merging RL and expert rules to stimulate the participants.
+ I submitted a <a target="_blank" href="https://arxiv.org/abs/2207.10330">paper</a> to IEEE SSCI as principal
+ author & presented this edition at the IEEE WCCI conference.
 
-  During this internship I participated in the creation of the 2022 edition of the challenge
-<a  target="_blank" href="https://l2rpn.chalearn.org/">Learn to Run a Power Network</a>
-in partnership with INRIA and RTE.
-My goal was to generate the competition data and create a reinforcement learning agent
-that would serve as the baseline for the competition. I was able to go to the
-<a  target="_blank" href="https://wcci2022.org/">WCCI</a>
-conference to present this edition.
-  
 + #### <a  target="_blank" href="https://www.inria.fr/">Inria</a> \& <a  target="_blank" href="https://lmf.cnrs.fr/">LMF</a>
   *May - June 2021* 
   **Supervisors:** Jean-Christophe Filliâtre & Andrei Paskevich
@@ -44,8 +40,9 @@ I have participated in several artificial intelligence challenges:
 + <a target="_blank" href="https://competitions.codalab.org/competitions/25427">L2RPN NEURIPS 2020 - Adaptability Track</a>
 
 ## Main projects
+- [L2RPN 2022 PPO Baseline](https://github.com/gaetanserre/L2RPN-2022_PPO-Baseline): The code of the baseline agent provided in the 2022 edition of
+  Learning to Run a Power Network.
 - [GAiA](https://github.com/gaetanserre/GAiA): A chess program that uses a complex residual neural network specialized in image recognition. You can read the report about GAiA [here](https://raw.githubusercontent.com/gaetanserre/GAiA/master/report/Performing%20Regression%20on%20Complex%20Data.pdf)
-- [Reinforcement learning algorithms](https://github.com/gaetanserre/Reinforcement-learning-algorithms): An implementation of various reinforcement learning algorithms (Q-Learning, Deep Q-Learning, AlphaZero) on several games
 - [AlphaZero (RLlib)](https://github.com/gaetanserre/ray): An implementation of the AlphaZero algorithm in a fork of the RLlib library
 - [L2RPN](https://github.com/gaetanserre/L2RPN): My participation to the 2020 L2RPN challenge
 - [LiSA](https://github.com/gaetanserre/LiSA): A 3D path tracing render engine
