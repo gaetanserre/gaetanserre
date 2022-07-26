@@ -23,6 +23,7 @@ I am passionate about
 + #### <a  target="_blank" href="https://www.inria.fr/">Inria</a> \& <a  target="_blank" href="https://www.rte-france.com/">RTE</a>
   *May - August 2022* 
   **Supervisor:** Isabelle Guyon
+  
   Organization of a reinforcement learning and electrical network challenge merging in partnership with Réseau de Transport d'Électricité.
  Creation of baseline agent merging RL and expert rules to stimulate the participants.
  I submitted a <a target="_blank" href="https://arxiv.org/abs/2207.10330">paper</a> to IEEE SSCI as principal
