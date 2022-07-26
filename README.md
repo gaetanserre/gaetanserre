@@ -5,10 +5,10 @@ I am Gaëtan Serré, I am currently pursuing my master in artificial intelligenc
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaetanserre&color=blueviolet" /> </p>
 
 I am passionate about
-- Machine/Deep/Reinforcement Learning
-- Game theory ♟
+- [Deep] Reinforcement learning
+- Game theory
+- Representation learning
 - Computer graphics
-- Compilation, type theory, functional programming
 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=gaetanserre&count_private=true&show_icons=true&custom_title=Github&theme=material-palenight&layout=compact&border_radius=8"
