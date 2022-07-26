@@ -24,10 +24,11 @@ I am passionate about
   *May - August 2022* 
   **Supervisor:** Isabelle Guyon
   
-  Organization of a reinforcement learning and electrical network challenge in partnership with Réseau de Transport d'Électricité.
- Creation of baseline agent merging RL and expert rules to stimulate the participants.
- I submitted a <a target="_blank" href="https://arxiv.org/abs/2207.10330">paper</a> to IEEE SSCI as principal
- author & presented this edition at the IEEE WCCI conference.
+  Organization of the new edition of Learning to Run a Power Network, a challenge joining reinforcement learning and electrical network
+in partnership with Réseau de Transport d'Électricité.
+Creation of baseline agent merging RL and expert rules to stimulate the participants.
+I submitted a <a target="_blank" href="https://arxiv.org/abs/2207.10330">paper</a> to IEEE SSCI as principal
+author & presented this edition at the IEEE WCCI conference.
 
 + #### <a  target="_blank" href="https://www.inria.fr/">Inria</a> \& <a  target="_blank" href="https://lmf.cnrs.fr/">LMF</a>
   *May - June 2021* 
@@ -37,18 +38,19 @@ I am passionate about
 
 ## Challenges
 I have participated in several artificial intelligence challenges:
-+ <a target="_blank" href="https://codalab.lisn.upsaclay.fr/competitions/573">Aerial Image Recognition</a>
++ <a target="_blank" href="https://codalab.lisn.upsaclay.fr/competitions/5410">L2RPN WCCI 2022</a>
 + <a target="_blank" href="https://competitions.codalab.org/competitions/25427">L2RPN NEURIPS 2020 - Adaptability Track</a>
++ <a target="_blank" href="https://codalab.lisn.upsaclay.fr/competitions/573">Aerial Image Recognition</a>
 
 ## Main projects
-- [L2RPN 2022 PPO Baseline](https://github.com/gaetanserre/L2RPN-2022_PPO-Baseline): The code of the baseline agent provided in the 2022 edition of
++ [L2RPN 2022 PPO Baseline](https://github.com/gaetanserre/L2RPN-2022_PPO-Baseline): The code of the baseline agent provided in the 2022 edition of
   Learning to Run a Power Network.
-- [GAiA](https://github.com/gaetanserre/GAiA): A chess program that uses a complex residual neural network specialized in image recognition. You can read the report about GAiA [here](https://raw.githubusercontent.com/gaetanserre/GAiA/master/report/Performing%20Regression%20on%20Complex%20Data.pdf)
-- [AlphaZero (RLlib)](https://github.com/gaetanserre/ray): An implementation of the AlphaZero algorithm in a fork of the RLlib library
-- [L2RPN](https://github.com/gaetanserre/L2RPN): My participation to the 2020 L2RPN challenge
-- [LiSA](https://github.com/gaetanserre/LiSA): A 3D path tracing render engine
-- [VAE](https://github.com/gaetanserre/Variational-Auto-Encoder): An implementation of a Variational Auto Encoder
-- [Neural Net](https://github.com/gaetanserre/NeuralNet): An implementation of Deep Learning library
++ [GAiA](https://github.com/gaetanserre/GAiA): A chess program that uses a complex residual neural network specialized in image recognition. You can read the report about GAiA [here](https://raw.githubusercontent.com/gaetanserre/GAiA/master/report/Performing%20Regression%20on%20Complex%20Data.pdf)
++ [AlphaZero (RLlib)](https://github.com/gaetanserre/ray): An implementation of the AlphaZero algorithm in a fork of the RLlib library
++ [L2RPN](https://github.com/gaetanserre/L2RPN): My participation to the 2020 L2RPN challenge
++ [LiSA](https://github.com/gaetanserre/LiSA): A 3D path tracing render engine
++ [VAE](https://github.com/gaetanserre/Variational-Auto-Encoder): An implementation of a Variational Auto Encoder
++ [Neural Net](https://github.com/gaetanserre/NeuralNet): An implementation of Deep Learning library
 
 ## Skills 
 
