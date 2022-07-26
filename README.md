@@ -24,7 +24,8 @@ I am passionate about
   *May - August 2022* 
   **Supervisor:** Isabelle Guyon
   
-  Organization of the new edition of Learning to Run a Power Network, a challenge joining reinforcement learning and electrical network
+  Organization of the new edition of <a target="_blank" href="https://l2rpn.chalearn.org/">Learning to Run a Power Network</a>,
+a challenge joining reinforcement learning and electrical network
 in partnership with Réseau de Transport d'Électricité.
 Creation of a baseline agent merging RL and expert rules to stimulate the participants.
 I submitted a <a target="_blank" href="https://arxiv.org/abs/2207.10330">paper</a> to IEEE SSCI as principal
