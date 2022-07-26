@@ -80,9 +80,8 @@ I have participated in several artificial intelligence challenges:
   <img src="https://img.shields.io/badge/macOs-666666?style=for-the-badge&logo=apple&logoColor=white">
 </span>
 
-## CVs
-- [CV (EN)](https://gaetanserre.github.io/assets/CV/EN/CV.pdf)
-- [CV (FR)](https://gaetanserre.github.io/assets/CV/FR/CV.pdf)
+## CV
+- [CV (EN)](https://gaetanserre.github.io/assets/CV/CV.pdf)
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/ga%C3%ABtan-serr%C3%A9-165974205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
