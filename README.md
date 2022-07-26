@@ -24,7 +24,7 @@ I am passionate about
   *May - August 2022* 
   **Supervisor:** Isabelle Guyon
   
-  Organization of a reinforcement learning and electrical network challenge merging in partnership with Réseau de Transport d'Électricité.
+  Organization of a reinforcement learning and electrical network challenge in partnership with Réseau de Transport d'Électricité.
  Creation of baseline agent merging RL and expert rules to stimulate the participants.
  I submitted a <a target="_blank" href="https://arxiv.org/abs/2207.10330">paper</a> to IEEE SSCI as principal
  author & presented this edition at the IEEE WCCI conference.
