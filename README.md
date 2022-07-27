@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-I am Gaëtan Serré, I am currently pursuing my master in artificial intelligence at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/).
+I am Gaëtan Serré, I am in the final year of the [artificial intelligence master degree of University of Paris-Saclay](https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaetanserre&color=blueviolet" /> </p>
 
